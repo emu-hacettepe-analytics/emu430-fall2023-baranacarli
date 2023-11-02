@@ -17,12 +17,17 @@ sidebar: false
 
     R, Quarto, Git, Python, Solidworks,
 
-    # Hobbiestion xx, year xxx
+    # Hobbies
 
-2.  Firm yyy, position yyy, year yyy
+    1.  Chess
+    2.  Basketball
+    3.  Music
+    4.  Pc games
 
 ## Internships
 
 1.  Erkunt Sanayi A.Ş , Quality Engineer Intern, 2022
 
-# Proje
+# CV
+
+\[My cv\] (BaranAcarlı_cv.pdf)
