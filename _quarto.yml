@@ -27,10 +27,11 @@ website:
         href: https://twitter.com
       - icon: linkedin
         href: https://https://www.linkedin.com/in/muharrem-baran-acarli/
-    - title: "Assignments"
-      style: "docked"
-      search: true
-      contents:
+    Sidebar:
+      - title: "Assignments"
+        style: "docked"
+        search: true
+        contents:
         - assignments.qmd
         - assignments/assignment-1.qmd
         - assignments/assignment-2.qmd  
