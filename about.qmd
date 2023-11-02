@@ -11,20 +11,18 @@ sidebar: false
 
 ## Employements
 
-1.  Firm xxx, position xx, year xxx
+1.  Candidate engineer in future
+
+    # Competencies
+
+    R, Quarto, Git, Python, Solidworks,
+
+    # Hobbiestion xx, year xxx
 
 2.  Firm yyy, position yyy, year yyy
 
 ## Internships
 
-1.  Firm aaa, position xx, year xxx
+1.  Erkunt Sanayi A.Ş , Quality Engineer Intern, 2022
 
-2.  Firm bbb, position yyy, year yyy
-
-# Projects
-
-# Competencies
-
-R, Quarto, Git, Python
-
-# Hobbies
+# Proje
