@@ -1,6 +1,7 @@
 ---
 title: "Assignment 1"
 ---
+"text": "1 + 1\n\n[1] 2\n\n\nMy first assignment has two parts."
 
 # Assignment 1
 
@@ -19,6 +20,7 @@ The presentation is about creating a pit of success for new r users in the compa
 3-)The equivalent of "elif" in Python is "else if" in R.
 
 ## (c)
+
 library(dslabs)
 
 data(na_example)
@@ -27,7 +29,7 @@ na_example
 
 sum(is.na(na_example))
 
-no_nas <- ifelse(is.na(na_example),0,na_example)
+no_nas \<- ifelse(is.na(na_example),0,na_example)
 
 no_nas
 
