@@ -4,12 +4,18 @@ title: "Assignment 1"
 
 # Assignment 1
 
-```{r}
-1 + 1
-```
-
-My first assignment has two parts.
+My first assignment has three parts.
 
 ## (a)
 
+The presentation is about creating a pit of success for new r users in the company to fall into for the international development agency's HIV aid office. The office handles hundreds of thousands of data from different facilities around the world about the current status of HIV patients that comes to the office in a quarterly measure. To handle this data the office uses excel but wants to move towards R to handle this job. For this employees needs to learn R but since it has a steep learning curve it is hard to encourage other employees to learn R. To help them with this task of learning R and encourage them the office created a pit of success that employees could fall in to easily and get the required help and support they needed from the rest of the community while they are on their journey to learn R for data analysis tasks. This pit of success includes packages that new R learners could use to help them with their work and includes a company community of experienced R users to help them if needed. So far this movement towards R for data analysis has made the work much more efficient and easier already.
+
 ## (b)
+
+1-)Python is a general-purpose programming language, while R is more commonly used for statistical analysis.
+
+2-)We use the "\$" operator in R. The equivalent of this operator in Python is "." is the operator.
+
+3-)The equivalent of "elif" in Python is "else if" in R.
+
+## (c)
