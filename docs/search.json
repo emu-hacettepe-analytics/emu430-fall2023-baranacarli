@@ -46,7 +46,7 @@
     "href": "assignments/assignment-1.html",
     "title": "Assignment 1",
     "section": "",
-    "text": "“text”: “1 + 1first assignment has two parts.”"
+    "text": "My first assignment has three parts.\n\n\nThe presentation is about creating a pit of success for new r users in the company to fall into for the international development agency’s HIV aid office. The office handles hundreds of thousands of data from different facilities around the world about the current status of HIV patients that comes to the office in a quarterly measure. To handle this data the office uses excel but wants to move towards R to handle this job. For this employees needs to learn R but since it has a steep learning curve it is hard to encourage other employees to learn R. To help them with this task of learning R and encourage them the office created a pit of success that employees could fall in to easily and get the required help and support they needed from the rest of the community while they are on their journey to learn R for data analysis tasks. This pit of success includes packages that new R learners could use to help them with their work and includes a company community of experienced R users to help them if needed. So far this movement towards R for data analysis has made the work much more efficient and easier already.\n\n\n\n1-)Python is a general-purpose programming language, while R is more commonly used for statistical analysis.\n2-)We use the “$” operator in R. The equivalent of this operator in Python is “.” is the operator.\n3-)The equivalent of “elif” in Python is “else if” in R.\n\n\n\nlibrary(dslabs)\ndata(na_example)\nna_example\nsum(is.na(na_example))\nno_nas &lt;- ifelse(is.na(na_example),0,na_example)\nno_nas\nsum(is.na(no_nas))"
   },
   {
     "objectID": "assignments.html",
@@ -66,21 +66,21 @@
     "objectID": "assignments/assignment-1.html#a",
     "href": "assignments/assignment-1.html#a",
     "title": "Assignment 1",
-    "section": "(a)",
-    "text": "(a)\nThe presentation is about creating a pit of success for new r users in the company to fall into for the international development agency’s HIV aid office. The office handles hundreds of thousands of data from different facilities around the world about the current status of HIV patients that comes to the office in a quarterly measure. To handle this data the office uses excel but wants to move towards R to handle this job. For this employees needs to learn R but since it has a steep learning curve it is hard to encourage other employees to learn R. To help them with this task of learning R and encourage them the office created a pit of success that employees could fall in to easily and get the required help and support they needed from the rest of the community while they are on their journey to learn R for data analysis tasks. This pit of success includes packages that new R learners could use to help them with their work and includes a company community of experienced R users to help them if needed. So far this movement towards R for data analysis has made the work much more efficient and easier already."
+    "section": "",
+    "text": "The presentation is about creating a pit of success for new r users in the company to fall into for the international development agency’s HIV aid office. The office handles hundreds of thousands of data from different facilities around the world about the current status of HIV patients that comes to the office in a quarterly measure. To handle this data the office uses excel but wants to move towards R to handle this job. For this employees needs to learn R but since it has a steep learning curve it is hard to encourage other employees to learn R. To help them with this task of learning R and encourage them the office created a pit of success that employees could fall in to easily and get the required help and support they needed from the rest of the community while they are on their journey to learn R for data analysis tasks. This pit of success includes packages that new R learners could use to help them with their work and includes a company community of experienced R users to help them if needed. So far this movement towards R for data analysis has made the work much more efficient and easier already."
   },
   {
     "objectID": "assignments/assignment-1.html#b",
     "href": "assignments/assignment-1.html#b",
     "title": "Assignment 1",
-    "section": "(b)",
-    "text": "(b)\n1-)Python is a general-purpose programming language, while R is more commonly used for statistical analysis.\n2-)We use the “$” operator in R. The equivalent of this operator in Python is “.” is the operator.\n3-)The equivalent of “elif” in Python is “else if” in R."
+    "section": "",
+    "text": "1-)Python is a general-purpose programming language, while R is more commonly used for statistical analysis.\n2-)We use the “$” operator in R. The equivalent of this operator in Python is “.” is the operator.\n3-)The equivalent of “elif” in Python is “else if” in R."
   },
   {
     "objectID": "assignments/assignment-1.html#c",
     "href": "assignments/assignment-1.html#c",
     "title": "Assignment 1",
-    "section": "(c)",
-    "text": "(c)\nlibrary(dslabs)\ndata(na_example)\nna_example\nsum(is.na(na_example))\nno_nas &lt;- ifelse(is.na(na_example),0,na_example)\nno_nas\nsum(is.na(no_nas))"
+    "section": "",
+    "text": "library(dslabs)\ndata(na_example)\nna_example\nsum(is.na(na_example))\nno_nas &lt;- ifelse(is.na(na_example),0,na_example)\nno_nas\nsum(is.na(no_nas))"
   }
 ]
