@@ -1,5 +1,7 @@
 project:
   type: website
+  resources:
+    -"BaranAcarlı_cv.pdf"
   output-dir: docs
 
 website:
