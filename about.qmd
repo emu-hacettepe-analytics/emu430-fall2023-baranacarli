@@ -30,4 +30,4 @@ sidebar: false
 
 # CV
 
-\[My cv\](BaranAcarlı_cv.pdf)
+[My cv](BaranAcarlı_cv.pdf)
